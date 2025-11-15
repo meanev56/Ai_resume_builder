@@ -1,7 +1,7 @@
 import { Ionicons } from "@expo/vector-icons";
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import React from 'react';
-import { HomeStackNavigator } from './HomeStackNavigator';
+import HomeStackNavigator from './HomeStackNavigator';
 import { ProfileStackNavigator } from "./ProfileStackNavigator";
 import { TemplateStackNavigator } from './TemplateStackNavigator';
 
